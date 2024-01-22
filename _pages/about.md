@@ -14,9 +14,9 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 Xiaochun received the B.Eng. degree in Automation from Jinan University, Guangzhou, China, in 2014, and the Ph.D. degree in Electronic Engineering from The Chinese University of Hong Kong, Hong Kong SAR, China, in 2021. She spent half a year in the Department of Computing at the University of Alberta, Edmonton, Canada, in 2017, as a visiting Ph.D. student.
