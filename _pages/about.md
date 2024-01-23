@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Assistant Professor at Shenzhen University. e-mail: maixc@szu.edu.cn
 
-
 profile:
   align: right
   image: xcmai_pic.jpg
