@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Xiaochun Mai # the website title (if blank, full name will be used instead)
 first_name: Xiaochun
 # middle_name:
 last_name: Mai
@@ -342,8 +342,8 @@ external_links:
 imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
-    - 60
-    - 100
+    - 480
+    - 800
     - 1400
   input_directories:
     - assets/img/
