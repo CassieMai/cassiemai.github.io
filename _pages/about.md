@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor \
-Shenzhen University \
+subtitle: Assistant Professor <br />
+Shenzhen University <br />
 e-mail: maixc@szu.edu.cn
 
 
