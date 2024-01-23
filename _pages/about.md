@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
+subtitle:
 <p>Assistant Professor </p>
 <p>Shenzhen University </p>
 <p>e-mail: maixc@szu.edu.cn </p>
