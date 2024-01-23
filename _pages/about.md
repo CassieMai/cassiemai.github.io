@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Assistant Professor at Shenzhen University. e-mail: maixc@szu.edu.cn
+subtitle: Assistant Professor at Shenzhen University. e-mail: maixc@szu.edu.cn
 
 
 profile:
