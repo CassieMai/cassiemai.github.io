@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Shenzhen University</a>. e-mail:maixc@szu.edu.cn
 
 profile:
   align: right
