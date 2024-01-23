@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Shenzhen University</a>. e-mail:maixc@szu.edu.cn
+subtitle: Assistant Professor at <a href='#'>Shenzhen University</a>. e-mail:maixc@szu.edu.cn
 
 profile:
   align: right
