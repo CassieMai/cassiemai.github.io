@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: aboutme
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Assistant Professor at Shenzhen University. e-mail: maixc@szu.edu.cn
 
