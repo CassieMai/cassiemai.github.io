@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Xiaochun Mai # the website title (if blank, full name will be used instead)
+title: Xiaochun MAI # the website title (if blank, full name will be used instead)
 first_name: Xiaochun
 # middle_name:
-last_name: Mai
+last_name: MAI
 email: maixc@szu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
