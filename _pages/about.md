@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor at Shenzhen University. e-mail:maixc@szu.edu.cn
 
