@@ -1,3 +1,5 @@
-Xiaochun received the B.Eng. degree in Automation from Jinan University, Guangzhou, China, in 2014, 
-She is currently an assistant professor in the College of Electronic and Information Engineering. 
+Chen XIE \
+2023: Shenzhen University, Bachelor's degree in New Generation of Electronic Information Technology (including Quantum Technology) \
+2023-Now: Graduate student
+
 
