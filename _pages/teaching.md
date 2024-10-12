@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 ## Lecturer at SZU
-2023-2024 2nd semester, undergraduate course, Machine Learning
+2023-2024 2nd semester, undergraduate course, Machine Learning, 72 hours 
+2024-2025 1st semester, undergraduate course, An Introduction to Electronics and Information Engineering, 18 hours per class
 
 ## Teaching Assistant at CUHK
 2018, Undergraduate Final Year Project Presentation \
