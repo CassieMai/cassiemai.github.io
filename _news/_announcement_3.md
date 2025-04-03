@@ -1,2 +1,2 @@
-**Post-doctor's Position Information:**🌟🌟
+Post-doctor's Position Information:🌟🌟
 A postdoctoral position is waiting for you. Fresh doctoral graduates in computer vision, electronic information engineering, and control science majors, if you are interested in machine vision, robot manipulation, and robot learning, please contact me through email.
